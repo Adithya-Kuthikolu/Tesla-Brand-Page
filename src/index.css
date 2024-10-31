@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/universal-sans-personal-use');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family:'Poppins';
+}
+
+html{
+    scroll-behavior: smooth;
+}
