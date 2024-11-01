@@ -1,5 +1,5 @@
 import React from 'react'
-import Video from '../assets/Video.mp4'
+import Video from '/assets/Video.mp4'
 
 const Page_two = () => {
   return (

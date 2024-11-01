@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div>
         <div className='mobile:w-full laptop:w-full h-14 flex items-center justify-between mobile:px-5 laptop:px-12'>
-          <img className='w-[100px] h-3' src="src/assets/Tesla-Logo.png" alt="" />
+          <img className='w-[100px] h-3' src="../assets/Tesla-Logo.png" alt="" />
         <div className="mobile:hidden laptop:flex laptop:items-center laptop:text-sm ">
             <button className='px-4 py-[5.5px] rounded-[3.4px] bg-transparent hover:bg-black/5'>Vehicles</button>
             <button className='px-4 py-[5.5px] rounded-[3.4px] bg-transparent hover:bg-black/5'>Energy</button>

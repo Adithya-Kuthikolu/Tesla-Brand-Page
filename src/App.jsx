@@ -15,7 +15,7 @@ const App = () => {
   return (
     <>
     <div  className='bg-black w-full overflow-x-hidden'>
-      <div className='mobile:w-full mobile:h-screen bg-[url("src/assets/roadster-hero-desktop.jpg")] bg-center bg-cover'>
+      <div className='mobile:w-full mobile:h-screen bg-[url("../assets/roadster-hero-desktop.jpg")] bg-center bg-cover'>
         <div className='w-full h-screen mobile:h-screen mobile:w-full  bg-gradient-to-b from-transparent via-transparent via-2% to-black/90'>
           <Navbar/>
           <Hero/>
